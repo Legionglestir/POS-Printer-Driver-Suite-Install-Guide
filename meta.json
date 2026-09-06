@@ -1,0 +1,23 @@
+{
+  "repo": "pos-printer-driver-suite-install-guide",
+  "product": "POS Printer Driver Suite Install Guide",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "pos-printer-driver",
+    "receipt-printing",
+    "thermal-pos",
+    "escpos-support",
+    "retail-hardware",
+    "posprinter-setup-failed-fix",
+    "how-to-install-posprinter",
+    "posprinter-windows",
+    "posprinter-desktop-2026",
+    "posprinter-desktop-package"
+  ],
+  "site": "toolix.me"
+}
